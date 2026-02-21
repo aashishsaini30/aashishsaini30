@@ -12,7 +12,7 @@
   - SQL
   - Excel
   - Git & GitHub
-  - 
+   
 
 🎯 Goals
   - Get a Python Internship
