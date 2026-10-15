@@ -45,7 +45,6 @@ I'm a BCA student interested in Data Analytics, business insights, and data-driv
 - Explored data preprocessing and prediction concepts.
 - Gained practical exposure to Python-based machine learning workflows.
 
-*Project repositories and documentation will be linked here as they are published.*
 
 ## 💼 Internship Experience
 
